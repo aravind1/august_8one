@@ -13,6 +13,7 @@ gem 'therubyracer'
 group :development do
 gem 'rspec-rails', '2.10.0'
 gem "autotest", "~> 4.4.6"
+gem 'annotate', ">=2.5.0"
 end
 
 group :test do
